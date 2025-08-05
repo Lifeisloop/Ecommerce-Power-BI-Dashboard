@@ -52,10 +52,9 @@ The dataset comes from the [Olist E-Commerce Public Dataset](https://www.kaggle.
 
 ## 👨‍💻 Author
 
-**Kush Gupta**  
-Student | BCA | Chandigarh University  
-📫 Email: guptakush9568@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-link) *(Replace with your real URL)*
+**Kush Gupta**   
+📫 Email: kushg7505155@gmail.com  
+🔗 [LinkedIn Profile](https://linkedin.com/in/k-g2906)
 
 ---
 
